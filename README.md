@@ -1,4 +1,0 @@
-wsdonline
-=========
-
-wsd online class
